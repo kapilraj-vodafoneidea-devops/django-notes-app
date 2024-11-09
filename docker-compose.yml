@@ -50,4 +50,5 @@ services:
 
   networks:
       notes-app-nw:
+        driver: bridge
 
